@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239310625776",
+    "project_id": "kotlininstaclone-74e2e",
+    "storage_bucket": "kotlininstaclone-74e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239310625776:android:b5333aa49ece8855889b35",
+        "android_client_info": {
+          "package_name": "com.qbra.kotlininstaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239310625776-237ddhsj6u5gjfsshmgtnatcujkv4ccd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtkVP_VyYW8ZVR8kWLfckegnm4T2GldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239310625776-237ddhsj6u5gjfsshmgtnatcujkv4ccd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
